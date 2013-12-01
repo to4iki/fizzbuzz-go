@@ -5,3 +5,8 @@ install:
   - go get github.com/to4iki/fizzbuzz-go
 script:
   - go test -v
+notifications:
+  emails:
+    - tsk.take815@gmail.com
+  on_success: always # default: change
+  on_failure: always

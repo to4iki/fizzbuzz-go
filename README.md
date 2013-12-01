@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/to4iki/fizzbuzz-go.png?branch=master)](https://travis-ci.org/to4iki/fizzbuzz-go)
+
 fizzbuzz-go
 ===========
 
